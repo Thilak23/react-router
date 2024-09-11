@@ -1,0 +1,15 @@
+div .nav{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: gold;
+}
+ul .li-1,.li-2,.li-3{
+  margin-right: 20px;
+}
+.li-1,.li-2,.li-3{
+  text-decoration: none;
+  font-size: 19px;
+  color: black;
+  font-weight: 500;
+}
